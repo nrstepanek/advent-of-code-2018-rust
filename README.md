@@ -6,6 +6,16 @@ This repository contains solutions to the 2018 Advent of Code problems (https://
 
 https://adventofcode.com/2018/day/1
 
-### Related files
+### Related Files
 
 src/frequency.rs
+inputs/frequencyInput.txt
+
+## Day 2
+
+https://adventofcode.com/2018/day/1
+
+### Related Files
+
+src/boxids.rs
+inputs/boxids.txt

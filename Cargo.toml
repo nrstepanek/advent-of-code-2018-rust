@@ -2,6 +2,6 @@
 name = "advent-of-code-2018"
 version = "0.1.0"
 authors = ["Nicholas Stepanek"]
-include = ["inputs/frequencyInput.txt"]
+include = ["inputs/frequencyInput.txt", "inputs/boxids.txt"]
 
 [dependencies]

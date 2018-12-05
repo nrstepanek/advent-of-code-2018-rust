@@ -63,9 +63,8 @@ fn find_common_chars(input: &String) -> String {
                 return answer;
             }
         }
-
-        
     }
+
     String::from("Did not find.")
 }
 

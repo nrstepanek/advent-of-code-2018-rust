@@ -13,9 +13,20 @@ inputs/frequencyInput.txt
 
 ## Day 2
 
-https://adventofcode.com/2018/day/1
+https://adventofcode.com/2018/day/2
 
 ### Related Files
 
 src/boxids.rs
 inputs/boxids.txt
+
+## Day 3
+
+https://adventofcode.com/2018/day/3
+
+### Related Files
+
+src/fabric.rs
+inputs/fabricClaims.txt
+
+
